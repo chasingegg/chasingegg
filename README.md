@@ -1,6 +1,6 @@
 # Hi, I'm chasingegg 👋
 
-I'm a software engineer for a living, I'm working on milvus vector database project. My work focuses on the intersection of vector search/full text search, databases, and high-performance computing.
+I'm a software engineer for a living, currently working on milvus vector database project. My work focuses on the intersection of vector search/full text search, databases, and high-performance computing.
 
 I'm looking for some AI related ideas to chase.
 
